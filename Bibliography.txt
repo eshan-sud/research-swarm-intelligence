@@ -1,0 +1,16 @@
+Bibliography:
+
+
+2010 | Shuang Cong, Yajun Jia and Ke Deng | Particle Swarm and Ant Colony Algorithms and Their Applications in Chinese Traveling Salesman Problem | Intechopen | [Online] | https://www.intechopen.com/chapters/8546
+
+2012 | Hazem Radwan Ahmed, Janice I. Glasgow | Swarm Intelligence: Concepts, Models and Applications | ResearchGate | [Online] | https://www.researchgate.net/publication/264457775_Swarm_Intelligence_Concepts_Models_and_Applications
+
+2017 | Dr Kowsigan . M, Seenivasan P, Rajkumar S, Vikram Kumar C | An Enhanced Job Scheduling in Cloud Environment using Improved Metaheuristic Approach | ResearchGate | [Online] | https://www.researchgate.net/publication/316606143_An_Enhanced_Job_Scheduling_in_Cloud_Environment_using_Improved_Metaheuristic_Approach
+
+2022 | Ahmed G. Gad | Particle Swarm Optimization Algorithm and Its Applications: A Systematic Review | Springer | [Online] | https://link.springer.com/article/10.1007/s11831-021-09694-4
+
+2024 | Li Sheng Kong, Muhammed Basheer Jasser, Samuel-Soma M. Ajibade, Ali Wagdy Mohamed | A systematic review on software reliability prediction via swarm intelligence algorithms | ScienceDirect | [Online] | https://www.sciencedirect.com/science/article/pii/S1319157824002210
+
+2024 | Yunes Alqudsi, Murat Makaraci | Exploring advancements and emerging trends in robotic swarm coordination and control of swarm flying robots: A review | Sagepub | [Online] | https://journals.sagepub.com/doi/abs/10.1177/09544062241275359
+
+
