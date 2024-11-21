@@ -17,7 +17,7 @@ q = 100
 dynamic_exploration_rate = 0.8
 max_iterations = 100
 aco = ACO.AntColonyOptimisation(cities, num_ants, alpha, beta, rho, q, dynamic_exploration_rate)
-best_solution, best_distance = aco.run(max_iterations)
+best_solution, best_distance, _ = aco.run(max_iterations)
 # Plotting the best route
 best_route = np.array([cities[city] for city in best_solution + [best_solution[0]]])
 plt.plot(best_route[:, 0], best_route[:, 1], marker='o', color='b')
